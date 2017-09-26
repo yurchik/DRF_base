@@ -27,6 +27,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # costume apps
     'rest_framework',
+    'snippets',
 ]
 
 MIDDLEWARE = [
